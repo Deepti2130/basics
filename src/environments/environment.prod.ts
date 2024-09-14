@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  baseurl:`https://flipcart/api/v1/products`
 };
